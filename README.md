@@ -6,13 +6,14 @@ It is structured as follows:
 
 ```
 📁 ZKU
-├─📁Background_Assignment         - Directory for all background assignment files
-| ├─📁Circuits                    - Sub directory containing the questions related to circuits
+├─📁Background_Assignment         	- Directory for all background assignment files
+| ├─📁Circuits                    	- Sub directory containing the questions related to circuits
 | |  └─📄Question8.png 
-| └─📁Smart Contract              - Sub directory containing the questions related to Smart Contracts 
-|    ├─📄safeRemotePurchase.sol   - Safe Remote Purchase Smart Contract
-|    ├─📄                
-|    ├─📄               
-|    └─📄               
+| └─📁Smart Contract              	- Sub directory containing the questions related to Smart Contracts 
+|    ├─📄safeRemotePurchase.sol   	- Safe Remote Purchase Smart Contract
+|    ├─📄contractDeployed.png     	      
+|    ├─📄confirmPurchaseBuyerTime.png              
+|    ├─📄completePurchaseSellerFail.png              
+|    └─📄completePurchaseSellerSucceed.png
 └─📄README.md
 ```
